@@ -1,0 +1,89 @@
+#pokeform{
+    width: 300px;
+    height: 80px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#body{
+    background-image: url(2-1.png);
+}
+
+#logo{
+    padding-top: -5px;
+    margin-left: 440px;
+    border-radius: 30px;
+    height: 40px;
+    color: palegoldenrod;
+}
+
+.botao{
+    background-color: #005778;
+    border-radius: 30px;
+    color: white;
+    padding: 6px 20px;
+    text-align: center;
+    display: flex;
+    margin-left: 270px;
+    margin-top: -35px;
+    cursor: pointer;
+    font-size: 18px;
+    margin-top: -40px;
+}
+
+.botao:hover{
+    background-color: #339CC7;
+}
+
+#pokenumero{
+    width: 250px;
+    height: 35px;
+    border-radius: 30px;
+    text-align: center;
+    margin-top: 10px;
+    border-radius: 30px;
+}
+
+#pokenome{
+    width: 150px;
+    height: 40px;
+    margin-left: 490px;
+    background-color: skyblue;
+    border-radius: 30px;
+    text-align: center;
+}
+
+#pokeimagem{
+    width: 300px;
+    height: 150px;
+    margin-left: 490px;
+    background-color: skyblue;
+    border-radius: 30px;
+}
+
+#pokealtura{
+    width: 150px;
+    height: 40px;
+    margin-left: 490px;
+    background-color: skyblue;
+    border-radius: 30px;
+    text-align: center;
+}
+
+#pokepeso{
+    width: 150px;
+    height: 40px;
+    margin-left: 490px;
+    background-color: skyblue;
+    border-radius: 30px;
+    text-align: center;
+}
+
+#poketype{
+    width: 150px;
+    height: 40px;
+    margin-left: 490px;
+    background-color: skyblue;
+    border-radius: 30px;
+    text-align: center;
+}
